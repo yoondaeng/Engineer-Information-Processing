@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jeong-yunji/Desktop/데스크탑 - 정윤지의 MacBook\_Air/jeongchergi/2024-1/ex19"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B7C, symSize: 0x1FC }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003B7C, symSize: 0x1FC }
+  - { offsetInCU: 0x85, offset: 0x85, size: 0x8, addend: 0x0, symName: __Z7isupperi, symObjAddr: 0x1FC, symBinAddr: 0x100003D78, symSize: 0x28 }
+  - { offsetInCU: 0xB3, offset: 0xB3, size: 0x8, addend: 0x0, symName: __Z7isloweri, symObjAddr: 0x224, symBinAddr: 0x100003DA0, symSize: 0x28 }
+  - { offsetInCU: 0xDF, offset: 0xDF, size: 0x8, addend: 0x0, symName: __Z7isdigiti, symObjAddr: 0x24C, symBinAddr: 0x100003DC8, symSize: 0x28 }
+  - { offsetInCU: 0x10B, offset: 0x10B, size: 0x8, addend: 0x0, symName: __Z8__istypeim, symObjAddr: 0x274, symBinAddr: 0x100003DF0, symSize: 0x8C }
+  - { offsetInCU: 0x145, offset: 0x145, size: 0x8, addend: 0x0, symName: __Z7isasciii, symObjAddr: 0x300, symBinAddr: 0x100003E7C, symSize: 0x24 }
+  - { offsetInCU: 0x171, offset: 0x171, size: 0x8, addend: 0x0, symName: __Z9__isctypeim, symObjAddr: 0x324, symBinAddr: 0x100003EA0, symSize: 0x80 }
+...
